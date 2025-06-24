@@ -92,5 +92,3 @@ Phase 4: Pilot program with schools
 Phase 5: Full deployment and scaling
 
 ---
-
-🤖 Generated with [Memex](https://memex.tech)
