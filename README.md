@@ -1,4 +1,4 @@
-# Debate Learning & Practice Platform
+# Gamified Debate Learning & Practice Platform
 
 An AI-powered gamified learning platform that introduces students to debate fundamentals through interactive challenges and progressive skill building.
 
